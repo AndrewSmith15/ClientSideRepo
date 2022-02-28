@@ -1,2 +1,3 @@
 Test file changes to the end of the file
 new line
+bug fix
